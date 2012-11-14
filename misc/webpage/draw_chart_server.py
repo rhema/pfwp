@@ -1,5 +1,6 @@
 #  This example uses bottle, a cool python only web server that makes it easy to prototype web applications.
 #  To test, run this program and go to http://localhost:8080/Rhema in a browser on your computer.
+#  Go to http://bottlepy.org/docs/dev/ for more information.
 from bottle import route, run, template
 
 
